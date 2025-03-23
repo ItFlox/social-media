@@ -20,7 +20,7 @@ const CountUp = ({ end, duration = 2, suffix = "" }: CountUpProps) => {
       const animate = (timestamp: number) => {
         if (!startTime) startTime = timestamp;
         const progress = timestamp - startTime;
-        const percentage = Math.min(progress / (duration * 1000), 1);
+        const percentage = Math.min(progress / (duration * 100), 1);
 
         setCount(Math.floor(end * percentage));
 
