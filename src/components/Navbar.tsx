@@ -16,7 +16,7 @@ const Navbar = () => {
           <div className="flex-shrink-0 flex items-center gap-2">
             <img src="/logo.svg" alt="Salix Socials Logo" className="h-8 w-8" />
             <span className="text-xl font-bold bg-gradient-to-r from-indigo-500 to-pink-500 bg-clip-text text-transparent">
-              Salix Socials
+              Maybewox SOCIALS
             </span>
           </div>
           <div className="hidden sm:flex sm:items-center sm:space-x-8">
