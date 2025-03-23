@@ -16,13 +16,13 @@ const Footer = () => {
           <div>
             <h3 className="text-xl font-bold mb-4">Contactez-nous</h3>
             <p className="text-gray-400">WhatsApp: +225 07 18 22 63 79</p>
-            <p className="text-gray-400">Email: contact@salixsocials.com</p>
+            <p className="text-gray-400">Email: contact@maybewox.pw</p>
           </div>
           <div>
             <h3 className="text-xl font-bold mb-4">Suivez-nous</h3>
             <div className="flex space-x-4">
               <a
-                href="https://instagram.com/salixsocials"
+                href="https://instagram.com/maybewoxmedias"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hover:text-pink-500 transition-colors"
@@ -30,7 +30,7 @@ const Footer = () => {
                 <Instagram className="h-6 w-6" />
               </a>
               <a
-                href="https://facebook.com/salixsocials"
+                href="https://facebook.com/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hover:text-blue-500 transition-colors"
@@ -38,7 +38,7 @@ const Footer = () => {
                 <Facebook className="h-6 w-6" />
               </a>
               <a
-                href="https://twitter.com/salixsocials"
+                href="https://twitter.com/maybewox"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hover:text-blue-400 transition-colors"
